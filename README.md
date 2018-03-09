@@ -19,4 +19,4 @@ Attached are two iPython Notebook files with examples of basic usage of the prog
 -	Portfolio Example.ipynb
 
 
-***Please note that this project is not finished. There are some bugs in the Portfolio.py
+***Please note that this project is still a work in progress. There are some bugs in the Portfolio.py
